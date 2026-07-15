@@ -1,1 +1,105 @@
-{}
+{
+  "nav": {
+    "brand": "Datics",
+    "home": "Inicio",
+    "products": "Productos",
+    "deals": "Ofertas",
+    "categories": "Categorías",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cart": "Carrito de compras",
+    "cta": "Comprar Ahora",
+    "toggleMenu": "Alternar menú de navegación"
+  },
+  "footer": {
+    "tagline": "Electrónica y gadgets de próxima generación para el mundo moderno. Tecnología de calidad, envío rápido, precios imbatibles.",
+    "shop": "Tienda",
+    "allProducts": "Todos los Productos",
+    "deals": "Ofertas y Promociones",
+    "newArrivals": "Nuevas Llegadas",
+    "categories": "Categorías",
+    "support": "Soporte",
+    "faq": "Preguntas Frecuentes",
+    "shipping": "Información de Envío",
+    "returns": "Devoluciones",
+    "warranty": "Garantía",
+    "company": "Empresa",
+    "about": "Acerca de Nosotros",
+    "blog": "Blog",
+    "careers": "Carreras",
+    "press": "Prensa",
+    "copyright": "© {year} {brand}. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies"
+  },
+  "about": {
+    "body1": "Datics fue fundada con la misión de llevar electrónica y gadgets de vanguardia a entusiastas de la tecnología en todo el mundo. Seleccionamos las mejores innovaciones para que te mantengas a la vanguardia.",
+    "body2": "Desde dispositivos para el hogar inteligente hasta tecnología portátil, seleccionamos cuidadosamente cada producto para garantizar calidad, confiabilidad y valor. Tu satisfacción es nuestra prioridad.",
+    "bullet1": "Selección experta de electrónica premium",
+    "bullet2": "Envío rápido y confiable a nivel mundial",
+    "bullet3": "Devoluciones sin complicaciones en 30 días",
+    "eyebrow": "Nuestra Historia",
+    "foundedLabel": "Fundada",
+    "imageAlt": "Espacio de trabajo del equipo de Datics con electrónica y gadgets",
+    "title": "Hecho para Amantes de la Tecnología"
+  },
+  "categories": {
+    "eyebrow": "Compra por Categoría",
+    "items": "Smartphones, Laptops, Wearables, Smart Home, Audio, Cámaras, Gaming, Accesorios",
+    "title": "Encuentra lo que Necesitas",
+    "viewAll": "Ver Todo"
+  },
+  "deals": {
+    "cta": "Comprar Ofertas",
+    "eyebrow": "Tiempo Limitado",
+    "subtitle": "No te pierdas nuestras mejores ofertas de tecnología a precios imbatibles.",
+    "title": "Ventas Relámpago",
+    "titleAccent": "Hasta 40% de Descuento"
+  },
+  "hero": {
+    "cta": "Comprar Ahora",
+    "eyebrow": "Bienvenido a Datics",
+    "floatOrdersLabel": "Pedidos Enviados",
+    "floatOrdersSuffix": "k+",
+    "floatRatingLabel": "Calificación de Clientes",
+    "imageAlt": "Escaparate de electrónica y gadgets más recientes",
+    "secondary": "Explorar Catálogo",
+    "subtitle": "Descubre la electrónica y gadgets más recientes seleccionados especialmente para ti.",
+    "titleAccent": "Innovación",
+    "titleLine1": "Tecnología de Última Generación,",
+    "titleLine2": "Entregada Rápidamente",
+    "trust1": "Envío Gratis en Compras de $50+",
+    "trust2": "Productos Auténticos Garantizados",
+    "trust3": "Soporte Experto 24/7"
+  },
+  "newsletter": {
+    "cta": "Suscribirse",
+    "disclaimer": "Respetamos tu privacidad. Desuscribirse en cualquier momento.",
+    "eyebrow": "Mantente Actualizado",
+    "placeholder": "Ingresa tu correo electrónico",
+    "subtitle": "Recibe ofertas exclusivas y lanzamientos de nuevos productos en tu bandeja de entrada.",
+    "success": "¡Gracias por suscribirte! Revisa tu bandeja de entrada.",
+    "title": "Nunca Pierdas una Oferta"
+  },
+  "product": {
+    "addToCart": "Agregar al Carrito",
+    "quickView": "Vista Rápida",
+    "wishlist": "Guardar"
+  },
+  "products": {
+    "eyebrow": "Productos Destacados",
+    "loadMore": "Cargar Más",
+    "subtitle": "Electrónica y gadgets seleccionados a mano para cada entusiasta de la tecnología.",
+    "title": "Más Vendidos"
+  },
+  "testimonials": {
+    "eyebrow": "Lo que Dicen los Clientes",
+    "subtitle": "Únete a miles de amantes de la tecnología satisfechos.",
+    "title": "Confiado por Miles"
+  },
+  "values": {
+    "eyebrow": "¿Por Qué Elegir Datics",
+    "title": "Por qué elegir Datics"
+  }
+}

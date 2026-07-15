@@ -1,1 +1,105 @@
-{}
+{
+  "nav": {
+    "brand": "Datics",
+    "home": "Home",
+    "products": "Products",
+    "deals": "Deals",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Shopping cart",
+    "cta": "Shop Now",
+    "toggleMenu": "Toggle navigation menu"
+  },
+  "footer": {
+    "tagline": "Next-level electronics and gadgets for the modern world. Quality tech, fast shipping, unbeatable prices.",
+    "shop": "Shop",
+    "allProducts": "All Products",
+    "deals": "Deals & Offers",
+    "newArrivals": "New Arrivals",
+    "categories": "Categories",
+    "support": "Support",
+    "faq": "FAQ",
+    "shipping": "Shipping Info",
+    "returns": "Returns",
+    "warranty": "Warranty",
+    "company": "Company",
+    "about": "About Us",
+    "blog": "Blog",
+    "careers": "Careers",
+    "press": "Press",
+    "copyright": "© {year} {brand}. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "about": {
+    "body1": "Datics was founded with a mission to bring cutting-edge electronics and gadgets to tech enthusiasts worldwide. We curate the best innovations so you can stay ahead of the curve.",
+    "body2": "From smart home devices to portable tech, we handpick every product to ensure quality, reliability, and value. Your satisfaction is our priority.",
+    "bullet1": "Expert curation of premium electronics",
+    "bullet2": "Fast, reliable shipping worldwide",
+    "bullet3": "30-day hassle-free returns",
+    "eyebrow": "Our Story",
+    "foundedLabel": "Founded",
+    "imageAlt": "Datics team workspace with electronics and gadgets",
+    "title": "Built for Tech Lovers"
+  },
+  "categories": {
+    "eyebrow": "Shop by Category",
+    "items": "Smartphones, Laptops, Wearables, Smart Home, Audio, Cameras, Gaming, Accessories",
+    "title": "Find What You Need",
+    "viewAll": "View All"
+  },
+  "deals": {
+    "cta": "Shop Deals",
+    "eyebrow": "Limited Time",
+    "subtitle": "Don't miss out on our hottest tech at unbeatable prices.",
+    "title": "Flash Sales",
+    "titleAccent": "Up to 40% Off"
+  },
+  "hero": {
+    "cta": "Shop Now",
+    "eyebrow": "Welcome to Datics",
+    "floatOrdersLabel": "Orders Shipped",
+    "floatOrdersSuffix": "k+",
+    "floatRatingLabel": "Customer Rating",
+    "imageAlt": "Latest electronics and gadgets showcase",
+    "secondary": "Explore Catalog",
+    "subtitle": "Discover the latest electronics and gadgets curated just for you.",
+    "titleAccent": "Innovation",
+    "titleLine1": "Next-Gen Tech,",
+    "titleLine2": "Delivered Fast",
+    "trust1": "Free Shipping on Orders $50+",
+    "trust2": "Authentic Products Guaranteed",
+    "trust3": "Expert Support 24/7"
+  },
+  "newsletter": {
+    "cta": "Subscribe",
+    "disclaimer": "We respect your privacy. Unsubscribe anytime.",
+    "eyebrow": "Stay Updated",
+    "placeholder": "Enter your email",
+    "subtitle": "Get exclusive deals and new product launches delivered to your inbox.",
+    "success": "Thanks for subscribing! Check your inbox.",
+    "title": "Never Miss a Deal"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "quickView": "Quick View",
+    "wishlist": "Save"
+  },
+  "products": {
+    "eyebrow": "Featured Products",
+    "loadMore": "Load More",
+    "subtitle": "Handpicked electronics and gadgets for every tech enthusiast.",
+    "title": "Best Sellers"
+  },
+  "testimonials": {
+    "eyebrow": "What Customers Say",
+    "subtitle": "Join thousands of happy tech lovers.",
+    "title": "Trusted by Thousands"
+  },
+  "values": {
+    "eyebrow": "Why Choose Datics",
+    "title": "Why Choose Datics"
+  }
+}
